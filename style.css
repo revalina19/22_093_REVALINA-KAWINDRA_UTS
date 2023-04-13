@@ -1,0 +1,63 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+.font{
+    font-family: 'Montserrat', sans-serif;}
+.font h1{
+    font-weight: bold;
+    text-align: center;
+}
+.font p{
+    text-align: center;
+}
+.style-logo{
+    margin-left: 50px;
+    float: right;
+    align-items: center;
+    width: 20px;
+    height: 50px;
+    right: 35px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: white
+}
+.user{
+    float: right;
+    align-items: center;
+    height: 50px;
+    color: white;
+    right: 380px;
+    font-size: 20px;
+}
+.toggle-style{
+    margin-right: 20px;
+}
+.offcanvas-body button{
+    position: absolute;
+    bottom: 15px;
+    width: 98%;
+    right: 10px;
+    font-weight: bold;
+    left: 5px;
+    text-align: center;
+    color: white;
+    border-radius: 50;
+ 
+}
+.JUDUL{
+    font-family: 'Special Elite', cursive;
+    margin-top: 60px;
+    text-align: center;
+    color: rgb(68, 68, 68);
+}
+.cari{
+    float: left;
+    margin-left: 660px;
+
+}
+
